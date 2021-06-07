@@ -1,8 +1,8 @@
 package graphql
+
 import (
 	"fmt"
 	"io"
-	"github.com/99designs/gqlgen"
 )
 
 type YesNo bool
